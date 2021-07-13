@@ -2,7 +2,7 @@
 
 [![Ruby](https://github.com/GoBigRecruiting65/pencil-pusher/actions/workflows/ruby.yml/badge.svg)](https://github.com/GoBigRecruiting65/pencil-pusher/actions/workflows/ruby.yml)
 
-Form builder and validator
+Fork of `pencil_pusher` that brings it into the modern era (Rails 6+ compatibility, Ruby 2.7+, etc.)
 
 ## Compatibility
 
@@ -19,4 +19,10 @@ Form builder and validator
 
 ## Usage
 
-TBD
+To use this version of `pencil_pusher` replace:
+
+`gem 'pencil_pusher'`
+
+with:
+
+`gem 'pencil_pusher', git: 'git@github.com:GoBigRecruiting65/pencil-pusher.git', branch: 'main'`
