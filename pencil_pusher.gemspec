@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |gem|
-  gem.name          = 'pencil_pusher_modernized'
+  gem.name          = 'pencil_pusher'
   gem.version       = '2.0.0'
   gem.authors       = ['Myles Megyesi', 'Steve Kim', 'Sarah Sunday']
   gem.description   = 'Form builder and validator'
